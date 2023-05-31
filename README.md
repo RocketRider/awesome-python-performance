@@ -4,6 +4,7 @@
 
 # Distributed computing
 - [Ray](https://github.com/ray-project/ray) Distribut calculation over muliple cpus or machines
+-[faster-fifo](https://github.com/alex-petrenko/faster-fifo) multiprocessing.Queue (IPC FIFO queue). Up to 30x faster in some configurations.
 
 # Interpreter
 - [Python 3.11](https://docs.python.org/3/whatsnew/3.11.html) 1.25x faster than Python 3.10
