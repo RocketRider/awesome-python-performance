@@ -11,3 +11,9 @@
 
 # Benchmark current performance
 - [SnakeViz](https://github.com/jiffyclub/snakeviz) with Python Profiler
+
+# Image Manipulation
+- [OpenCV](https://github.com/opencv/opencv-python) Fast image manipulations
+
+# Graph Calculations
+- [igraph](https://github.com/igraph/python-igraph) Extreme fast graph implementation for e.g. A* calculation
